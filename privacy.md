@@ -1,7 +1,3 @@
----
-no_welcome: true
----
-
 # Privacy Policy
 
 Last updated: March 2026
