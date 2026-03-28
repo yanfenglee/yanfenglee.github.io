@@ -1,4 +1,4 @@
-# Streak13 技术支持
+# Streak13 Home
 
 感谢您使用 **Streak13 - 13天习惯打卡**。
 
